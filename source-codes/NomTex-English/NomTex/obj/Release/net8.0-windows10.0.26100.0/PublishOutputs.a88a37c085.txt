@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\NomTex.exe
+C:\Users\user\Desktop\NomTex.dll
+C:\Users\user\Desktop\NomTex.deps.json
+C:\Users\user\Desktop\NomTex.runtimeconfig.json
+C:\Users\user\Desktop\NomTex.pdb
+C:\Users\user\Desktop\Microsoft.Windows.SDK.NET.dll
+C:\Users\user\Desktop\WinRT.Runtime.dll
