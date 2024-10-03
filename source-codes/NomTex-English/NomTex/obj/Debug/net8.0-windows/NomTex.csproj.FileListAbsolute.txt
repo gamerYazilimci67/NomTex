@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\VS çalışmalar\NomTex\NomTex\bin\Debug\net8.0-windows\NomTex.exe
+C:\Users\user\Desktop\VS çalışmalar\NomTex\NomTex\bin\Debug\net8.0-windows\NomTex.deps.json
+C:\Users\user\Desktop\VS çalışmalar\NomTex\NomTex\bin\Debug\net8.0-windows\NomTex.runtimeconfig.json
+C:\Users\user\Desktop\VS çalışmalar\NomTex\NomTex\bin\Debug\net8.0-windows\NomTex.dll
+C:\Users\user\Desktop\VS çalışmalar\NomTex\NomTex\bin\Debug\net8.0-windows\NomTex.pdb
+C:\Users\user\Desktop\VS çalışmalar\NomTex\NomTex\obj\Debug\net8.0-windows\NomTex.Form1.resources
+C:\Users\user\Desktop\VS çalışmalar\NomTex\NomTex\obj\Debug\net8.0-windows\NomTex.csproj.GenerateResource.cache
+C:\Users\user\Desktop\VS çalışmalar\NomTex\NomTex\obj\Debug\net8.0-windows\NomTex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\VS çalışmalar\NomTex\NomTex\obj\Debug\net8.0-windows\NomTex.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\VS çalışmalar\NomTex\NomTex\obj\Debug\net8.0-windows\NomTex.AssemblyInfo.cs
+C:\Users\user\Desktop\VS çalışmalar\NomTex\NomTex\obj\Debug\net8.0-windows\NomTex.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VS çalışmalar\NomTex\NomTex\obj\Debug\net8.0-windows\NomTex.dll
+C:\Users\user\Desktop\VS çalışmalar\NomTex\NomTex\obj\Debug\net8.0-windows\refint\NomTex.dll
+C:\Users\user\Desktop\VS çalışmalar\NomTex\NomTex\obj\Debug\net8.0-windows\NomTex.pdb
+C:\Users\user\Desktop\VS çalışmalar\NomTex\NomTex\obj\Debug\net8.0-windows\NomTex.genruntimeconfig.cache
+C:\Users\user\Desktop\VS çalışmalar\NomTex\NomTex\obj\Debug\net8.0-windows\ref\NomTex.dll
+C:\Users\user\Desktop\VS çalışmalar\NomTex\NomTex\obj\Debug\net8.0-windows\NomTex.Properties.Resources.resources
