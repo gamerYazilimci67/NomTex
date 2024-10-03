@@ -20,7 +20,7 @@ Source Codes is at the "source-codes" folder. You can download it.
 What language options are there?
 Currently there are only Turkish and English options. (If you would like to use the ENGLISH version, please download the installation file/.zip file named "NomTex-En".)
 
-#NomTex 1.5
+# NomTex 1.5
 
 NomTex 1.5 is available for download!
 
