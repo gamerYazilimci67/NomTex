@@ -1,7 +1,0 @@
-C:\Users\user\Desktop\VS çalışmalar\NomTex-English\NomTex\obj\Debug\net8.0-windows10.0.26100.0\NomTex.Form1.resources
-C:\Users\user\Desktop\VS çalışmalar\NomTex-English\NomTex\obj\Debug\net8.0-windows10.0.26100.0\NomTex-English.Properties.Resources.resources
-C:\Users\user\Desktop\VS çalışmalar\NomTex-English\NomTex\obj\Debug\net8.0-windows10.0.26100.0\NomTex-English.csproj.GenerateResource.cache
-C:\Users\user\Desktop\VS çalışmalar\NomTex-English\NomTex\obj\Debug\net8.0-windows10.0.26100.0\NomTex-English.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user\Desktop\VS çalışmalar\NomTex-English\NomTex\obj\Debug\net8.0-windows10.0.26100.0\NomTex-English.AssemblyInfoInputs.cache
-C:\Users\user\Desktop\VS çalışmalar\NomTex-English\NomTex\obj\Debug\net8.0-windows10.0.26100.0\NomTex-English.AssemblyInfo.cs
-C:\Users\user\Desktop\VS çalışmalar\NomTex-English\NomTex\obj\Debug\net8.0-windows10.0.26100.0\NomTex-English.csproj.CoreCompileInputs.cache
