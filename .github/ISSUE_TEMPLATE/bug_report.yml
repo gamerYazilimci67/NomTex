@@ -5,10 +5,12 @@ body:
 - type: markdown
   attributes:
      value: |
-         ## Bug Description
-         Talk about bug. State why it occurs and how it occurs.
+         ## Bug Report
+         
 - type: textarea
   id: bug
+  attributes: 
+    label: Talk about bug. State why it occurs and how it occurs.
 
 - type: textarea
   id: steps
