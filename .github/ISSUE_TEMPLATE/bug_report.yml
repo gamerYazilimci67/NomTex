@@ -2,19 +2,19 @@ name: Bug Report
 description: Report bugs and help us.
 
 body:
-  - type: markdown
+- type: markdown
   attributes:
      value: |
          ## Bug Description
          Talk about bug. State why it occurs and how it occurs.
-  - type: input
-    id: title
-    attributes:
+- type: input
+  id: title
+  attributes:
       label: Title
       description: Enter a short and concise title.
-  - type: textarea
-    id: steps
-    attributes:
+- type: textarea
+  id: steps
+  attributes:
       label: Steps
       description: Write down the steps to reproduce the problem.
 
