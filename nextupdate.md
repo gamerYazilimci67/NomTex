@@ -1,8 +1,8 @@
-# What will happen in NomTex 1.7?
+# **What will happen in NomTex 1.7?**
 
 ## 1. Terminal Commands
 
-   You will now be able to run NomTex from the terminal with commands (e.g. nomtex).
+   You will now be able to run NomTex from the terminal with commands (e.g. `nomtex`, `nomtex --open <file_name>` ).
 
 ## 2. Set as Default Application
 
