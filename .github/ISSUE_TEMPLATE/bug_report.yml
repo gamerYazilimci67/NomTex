@@ -7,11 +7,9 @@ body:
      value: |
          ## Bug Description
          Talk about bug. State why it occurs and how it occurs.
-- type: input
-  id: title
+- type: textarea
+  id: bug
   attributes:
-      label: Title
-      description: Enter a short and concise title.
 - type: textarea
   id: steps
   attributes:
