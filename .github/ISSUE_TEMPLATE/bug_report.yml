@@ -9,7 +9,7 @@ body:
          Talk about bug. State why it occurs and how it occurs.
 - type: textarea
   id: bug
-  attributes:
+
 - type: textarea
   id: steps
   attributes:
