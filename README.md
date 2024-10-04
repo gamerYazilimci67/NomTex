@@ -15,7 +15,7 @@ How I Can Download NomTex?
  Run the NomTex.exe. You downloaded NomTex
 
 Where Is The Source Codes? 
-Source Codes is at the "source-codes" folder. You can download it.
+Source Codes is at the this repo. You can download it.
 
 What language options are there?
 Currently there are only Turkish and English options. (If you would like to use the ENGLISH version, please download the installation file/.zip file named "NomTex-En".)
@@ -44,3 +44,6 @@ What is the news?
 
 5. Bug Fixes
  The bug where the text's changed properties reset each other has been solved.
+
+
+
