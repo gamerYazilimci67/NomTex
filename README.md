@@ -1,3 +1,4 @@
+![NomTex](./docs/picture-files/NomTex.png)
 # NomTex
 NomTex text editor
 
