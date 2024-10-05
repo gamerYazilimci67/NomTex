@@ -6,7 +6,7 @@ NomTex text editor
 
  NomTex is a easy and open-source, gui text editor. It is developed with Windows Forms and Visual Studio.
 
-## How I Can Download NomTex?
+### How I Can Download NomTex?
 
  - 1. With Setup File
      Download the NomTex Setup File from Releases
