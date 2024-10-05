@@ -1,6 +1,7 @@
 ![NomTex](./docs/picture-files/NomTex.png)
 # NomTex
  NomTex is a easy and open-source, gui text editor. It is developed with Windows Forms and Visual Studio.
+ It for ***Windows***
  
 ### How I Can Download NomTex?
 
