@@ -1,0 +1,12 @@
+name: Suggestions for NomTex
+description: Suggest and help us.
+
+body:
+- type: markdown
+  attributes:
+    value: |
+      ##Suggestion
+- type: textarea
+  id: suggest
+  attributes:
+    label: Explain your suggestion succinctly. 
