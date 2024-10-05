@@ -5,7 +5,8 @@ body:
 - type: markdown
   attributes:
     value: |
-      ##Suggestion
+        ##Suggestion
+
 - type: textarea
   id: suggest
   attributes:
