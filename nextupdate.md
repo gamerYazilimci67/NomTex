@@ -1,7 +1,7 @@
 # **What will happen in NomTex 1.7?**
 
 ## 1. Save As
-   You will save as files.
+   Save as function will be added.
 
 ## 2. Terminal Commands
 
