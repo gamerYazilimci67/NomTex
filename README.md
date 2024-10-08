@@ -5,12 +5,15 @@
  
 ### How I Can Download NomTex?
 
- - 1. With Setup File
-     Download the NomTex Setup File from Releases
-     and install this. You downloaded NomTex.
- - 2. With Zip Files
-     Download the .zip file from Releases and extract it.
-     Run the NomTex.exe. You downloaded NomTex
+1. With Setup File
+ 
+  Download the NomTex Setup File from Releases
+  and install this. You downloaded NomTex.
+  
+2. With Zip Files
+
+  Download the .zip file from Releases and extract it.
+  Run the NomTex.exe. You downloaded NomTex
 
 ### Where Is The Source Codes? 
   Source Codes is at the this repo. You can download it.
